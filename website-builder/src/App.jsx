@@ -11,10 +11,9 @@ function App() {
   return (
     <>
       <div className="app-container">
+      <Header></Header>
       <Register></Register>
         <div className="content">
-        <Header></Header>
-        
         {/* <div className="app-container"> */}
         {/* <Register></Register> */}
         <Footer></Footer>

@@ -18,17 +18,19 @@
   flex-direction: column;
   align-items: center;
   flex: 10%;
+  width: auto;
 }
   
     /* Footer styles */
 .content {
   display: flex;
-  margin-top: 0.5rem; /* Adjust spacing between links and button */
+  margin-top: 2rem; /* Adjust spacing between links and button */
   padding: 0.5rem 1rem; /* Adjust button padding */
   font-size: 0.8rem; /* Adjust button font size */
-  width: auto;
+  width: 100vw;
   height: 2px;
 }
+
 
 .column {
   margin-bottom: 2rem; /* Adjust spacing between columns */
